@@ -11,3 +11,6 @@
 * department_name
 * price (cost to customer)
 * stock_quantity (how much of the product is available in stores)
+http://prntscr.com/fv0ce6
+http://prntscr.com/fv0d0g
+http://prntscr.com/fv0dd8
